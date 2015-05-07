@@ -1,0 +1,7 @@
+# name: c-style comment block
+# key:
+# binding: C-M-;
+# --
+/*
+ * $0
+*/
