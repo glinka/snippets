@@ -1,0 +1,7 @@
+# name: construct matplotlib fig and axis
+# key: fig
+# binding:
+# --
+fig = plt.figure()
+ax = fig.add_subplot(111)
+ax.$0

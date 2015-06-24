@@ -1,0 +1,5 @@
+# name: enter equation in doxygen comment
+# key: \f
+# binding:
+# --
+\f$$0\f$

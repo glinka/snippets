@@ -1,0 +1,5 @@
+# name: doxygen member comment
+# key: //
+# binding: C-M-;
+# --
+//!< $0

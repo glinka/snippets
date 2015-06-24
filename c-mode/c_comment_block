@@ -1,7 +1,7 @@
 # name: c-style comment block
-# key:
+# key: /
 # binding: C-M-;
 # --
-/*
+/**
  * $0
 */
